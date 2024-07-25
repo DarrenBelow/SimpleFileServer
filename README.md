@@ -5,7 +5,7 @@ This project is a simple file server built with PHP that allows users to browse 
 ## Requirements
 
 - [Download PHP](https://www.php.net/downloads)
-- Extract the PHP zip file and place the contents into the `php` folder within this project directory.
+- Extract the PHP zip file and place the contents into the `php` folder you need to create within this project directory.
 
 ## Setup
 
